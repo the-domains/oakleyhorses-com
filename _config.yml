@@ -1,7 +1,7 @@
 name: OakleyHorses.com
 favicon: null
-layout_spectrum: 0.15202496759593487
-typography_spectrum: 0.08473229967057705
+layout_spectrum: 0.5286
+typography_spectrum: 0.53386
 title: 'OakleyHorses - Trusted for expert guidance on show jumpers, dressage horses and eventers'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#020106'
+    - '#f8fbfd'
+    - '#c9381f'
+    - '#99acc7'
+    - '#4f5055'
   brandStrength: 0.35124572995118797
   lightness: 0.2698885058052838
   saturation: 0.6554204970598221
