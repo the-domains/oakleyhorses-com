@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OakleyHorses.com]]></title>
-        <description><![CDATA[OakleyHorses.com]]></description>
+        <title><![CDATA[OakleyHorses - Trusted for expert guidance on show jumpers, dressage horses and eventers]]></title>
+        <description><![CDATA[OakleyHorses - Trusted for expert guidance on show jumpers, dressage horses and eventers]]></description>
         <link>https://thegrid.ai/oakleyhorses-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:19:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oakleyhorses-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1>Contact</h1>]]></description>
+            <link>https://thegrid.ai/oakleyhorses-com/contact/index.html</link>
+            <guid isPermaLink="false">b5508378-bd06-42f9-968f-ee1834d8d0a0</guid>
+            <pubDate>Wed, 24 Feb 2016 11:18:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f59d740b-20af-47c7-a95d-f693a1416af5.png">]]></description>
