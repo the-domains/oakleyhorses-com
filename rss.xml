@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OakleyHorses.com]]></title>
         <description><![CDATA[OakleyHorses.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oakleyhorses-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:13:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 11:14:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oakleyhorses-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06619a67-c23b-40e1-b588-78448fbd4e03.png">]]></description>
+            <link>https://thegrid.ai/oakleyhorses-com/6f4ac2d6-62cc-4a98-b1cb-5303b6cf6248/index.html</link>
+            <guid isPermaLink="false">6f4ac2d6-62cc-4a98-b1cb-5303b6cf6248</guid>
+            <pubDate>Wed, 24 Feb 2016 11:13:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16e819d8-381d-40e3-aad7-73314a81232a.png">]]></description>
-            <link>undefined8c0d4f78-bc19-4497-8cf6-4f2c3bef457c/index.html</link>
+            <link>https://thegrid.ai/oakleyhorses-com/8c0d4f78-bc19-4497-8cf6-4f2c3bef457c/index.html</link>
             <guid isPermaLink="false">8c0d4f78-bc19-4497-8cf6-4f2c3bef457c</guid>
             <pubDate>Wed, 24 Feb 2016 11:13:57 GMT</pubDate>
         </item>
